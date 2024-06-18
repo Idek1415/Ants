@@ -13,7 +13,7 @@ config_version=5
 config/name="Ants"
 run/main_scene="res://Menus/multiplayer_menu.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
-config/icon="res://icon.svg"
+config/icon="res://Assets/icon.svg"
 
 [rendering]
 
